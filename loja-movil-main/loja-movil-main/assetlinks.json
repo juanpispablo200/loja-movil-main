@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ec.loja.gob.loja_movil",
+      "sha256_cert_fingerprints": [
+        "C8:65:39:BC:FE:C1:C5:9F:D4:F7:59:F8:0F:4F:ED:46:69:1F:39:1E:58:56:A4:11:86:12:C4:BD:94:EF:2F:8D"
+      ]
+    }
+  }
+]

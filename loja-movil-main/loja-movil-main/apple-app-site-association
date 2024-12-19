@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "2WHMB4X2WC.ec.loja.gob.loja-movil",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

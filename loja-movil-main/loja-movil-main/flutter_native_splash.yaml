@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#426CA4"  # Fondo completamente blanco
+  image: assets/images/logos/logo_loja.png  # Imagen con el círculo azul y el ícono dentro
+
+  android_12:
+    icon_background_color: "#426CA4"  # Fondo blanco en Android 12
+    icon_background_color_dark: "#426CA4"  # Fondo oscuro en Android 12, si lo deseas
+
+  android: true
+  ios: true
+  web: false
+  fullscreen: true
